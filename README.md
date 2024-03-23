@@ -1,2 +1,3 @@
 # foodmaps
-based on javis ratings
+
+ food reviews that change based on distance and price
